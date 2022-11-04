@@ -606,7 +606,7 @@ li:not(:last-child) {
   fill: inherit;
 }
 
-.footer-socials-icon:hover, .footer-socials-icon:focus {
+.footer-socials-link:hover, .footer-socials-link:focus {
   background-color: var(--accent-color);
 }
 
